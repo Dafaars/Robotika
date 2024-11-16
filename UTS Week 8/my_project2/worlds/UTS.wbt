@@ -1,0 +1,42 @@
+#VRML_SIM R2023b utf8
+
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2023b/projects/objects/backgrounds/protos/TexturedBackground.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2023b/projects/objects/backgrounds/protos/TexturedBackgroundLight.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2023b/projects/objects/floors/protos/RectangleArena.proto"
+EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2023b/projects/robots/picaxe/microbot/protos/Microbot.proto"
+
+WorldInfo {
+}
+Viewpoint {
+  orientation -0.23462967700533993 0.25935143100303976 0.9368488404780386 1.5358732294238147
+  position -0.28859723615266186 -2.812049421051693 1.4840350318769313
+}
+TexturedBackground {
+}
+TexturedBackgroundLight {
+}
+RectangleArena {
+  floorSize 5 5
+}
+Microbot {
+  hidden linearVelocity_0 9.891931353949661e-10 -3.143766260859474e-10 2.665152431050013e-13
+  hidden angularVelocity_0 1.4014062041026697e-10 -8.481326090470168e-10 3.0879462250667506e-08
+  hidden linearVelocity_4 1.8868172333761453e-09 -1.859304640678019e-09 -4.624000828587213e-11
+  hidden angularVelocity_4 1.4013645650566183e-10 -8.481226143383946e-10 3.087946223429606e-08
+  hidden linearVelocity_5 8.942877825469103e-11 -1.8621825598567413e-09 -3.8162197584374167e-11
+  hidden angularVelocity_5 1.4013470833597746e-10 -8.481404844425072e-10 3.0879462190833006e-08
+  hidden translation_7 0.012 0.03800000000000001 -0.009
+  hidden rotation_7 0 -1 0 0
+  hidden linearVelocity_7 3.204616346865595e-09 -1.8564476692188552e-10 -1.2507519076756679e-11
+  hidden angularVelocity_7 5.715724715490706e-10 2.930044474482063e-07 3.091665043768234e-08
+  hidden translation_8 0.012 -0.03800000000000001 -0.009
+  hidden rotation_8 0 -1 0 0
+  hidden linearVelocity_8 -5.991222811233077e-11 -1.8089793967671485e-10 -1.7048492734846351e-12
+  hidden angularVelocity_8 1.439369917540498e-10 -8.495798128335505e-10 3.087478293092829e-08
+  translation -0.006823443784421797 0.004813891567371582 0.021503259644896154
+  rotation -0.0013168131610868784 3.0730827614725634e-06 0.9999991329964517 3.140133476693749
+  controller "RCController"
+  controllerArgs [
+    ""
+  ]
+}
