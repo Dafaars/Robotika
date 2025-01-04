@@ -1,0 +1,27 @@
+Chapter 1 introduction to ros
+
+1. (roscore)
+2. buka tab baru (jika belum install sudo apt install ros-noetic-rviz)
+3. jalankan (rviz)
+
+Terminal Menampilkan Eksekusi Sukses Saat menjalankan roscore, terminal akan menunjukkan bahwa proses berjalan tanpa error.
+
+
+Chapter 6
+
+1. sudo apt update
+2. install moveit (sudo apt install ros-noetic-moveit -y)
+3. roslaunch moveit_setup_assistant setup_assistant.launch
+
+
+
+
+chapter 4
+
+1. perbarui system (sudo apt upgrade dan sudo apt upgrade)
+2. tambahkan respositori gazebo (sudo sh -c 'echo "deb http://packages.osrfoundation.org/gazebo/ubuntu-stable $(lsb_release -cs) main" >  /etc/apt/sources.list.d/gazebo-stable.list')
+3. tambah kunci repositori (wget https://packages.osrfoundation.org/gazebo.key -O - | sudo apt-key add -)
+4. perbarui daftar paket (sudo apt update)
+5. install gazebo (sudo apt install gazebo11)
+6. install plugin (sudo apt install ros-noetic-gazebo-ros-pkgs ros-noetic-gazebo-ros-control)
+7. verifikasi (gazebo)
