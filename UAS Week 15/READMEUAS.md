@@ -1,1 +1,5 @@
-
+# Robotika UAS
+# Mohon maaf sebelumnya ka, Video chapter 1 & 6 saya tidak bisa didownload jadi saya tidak bisa upload ke Youtube. Jadi saya kirimkan link 1 & 6nya ya ka
+# Link Video Chapter 4 https://youtu.be/ZDW1r9ssYyg?si=0-h514pq11l1-xSQ
+# Chapter 1 https://telkomuniversityofficial-my.sharepoint.com/personal/kanshafb_student_telkomuniversity_ac_id/_layouts/15/stream.aspx?id=%2Fpersonal%2Fkanshafb%5Fstudent%5Ftelkomuniversity%5Fac%5Fid%2FDocuments%2FRekaman%2FCall%20with%20DAFA%20RHESA%20SUDIBYO%2D20250105%5F004553%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E5ae7382c%2Dffa2%2D467d%2D820b%2D7b80f0230789
+# Chapter 6 https://telkomuniversityofficial-my.sharepoint.com/personal/kanshafb_student_telkomuniversity_ac_id/_layouts/15/stream.aspx?id=%2Fpersonal%2Fkanshafb%5Fstudent%5Ftelkomuniversity%5Fac%5Fid%2FDocuments%2FRekaman%2FCall%20with%20DAFA%20RHESA%20SUDIBYO%2D20250105%5F005200%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E8e19d58c%2D2d0a%2D4d94%2D954e%2D683482c4ca0d
